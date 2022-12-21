@@ -1,6 +1,6 @@
 # Learning_Python
 
-[More Exersizes](https://pynative.com/python-basic-exercise-combine_lists)
+[More Exercise](https://pynative.com/python-basic-exercise-combine_lists)
 
 ## Exersise 1
 Print characters from a string that are present at an even index number
@@ -14,7 +14,7 @@ def print_Even_Number():
 
 ```
 
-## Exersise 2
+## Exercise 2
 Check if the first and last number of a list is the same
 
 ```python3
@@ -27,7 +27,7 @@ def last_same_as_first():
 
 ```
 
-##Exersise 3
+## Exercise 3
 Return the count of a given substring from a string. The string has to be a userinput
 
 ```python3
@@ -39,7 +39,7 @@ def spider_counter():
 
 ```
 
-##Exersise 4
+## Exercise 4
 Create a new list from a two list using the following condition.
 
 Given a two list of numbers, write a program to create a new list such that the new list should contain odd numbers from the first list and even numbers from the second list.
@@ -54,8 +54,8 @@ def combine_lists():
 
 ```
 
-##Exersise 5
-Return a random greeting and question from data.json
+## Exercise 5
+Return a random greeting and question from `data.json`
 
 ```python3
 
@@ -66,8 +66,8 @@ def random_greeting():
 
 ```
 
-##Exersise 6
-List all answers found in data.json in a Markdown Table
+## Exercise 6
+List all answers found in `data.json` in a Markdown Table
 
 [Markdown Cheatsheat](https://www.markdownguide.org/cheat-sheet/)
 
@@ -78,3 +78,17 @@ def answers_to_markdown():
 
 
 ```
+
+## Exercise 7
+Return the percentage of users in `table.csv` who have their mail hosted by "yahoo.com".
+
+
+```python3
+
+def who_uses_yahoo():
+	# your code
+	return percentage
+
+
+```
+
