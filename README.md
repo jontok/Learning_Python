@@ -1,6 +1,6 @@
 # Learning_Python
 
-[More Exercise](https://pynative.com/python-basic-exercise-combine_lists)
+[More Exercise](https://pynative.com/python-basic-exercise-for-beginners/)
 
 ## Exersise 1
 Print characters from a string that are present at an even index number
