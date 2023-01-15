@@ -14,6 +14,8 @@ def print_Even_Number():
 
 ```
 
+[Solution Exercise 1](https://github.com/jontok/Learning_Python/blob/solution/exercise1.md)
+
 ## Exercise 2
 Print "True" if the first and last number of a list is the same
 
